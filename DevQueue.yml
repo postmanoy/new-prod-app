@@ -6,5 +6,3 @@ Resources:
     Properties:
       QueueName: dev-queue-1
       SqsManagedSseEnabled: false
-      KmsMasterKeyId: alias/aws/sqs
-      KmsDataKeyReusePeriodSeconds: 300
